@@ -1,0 +1,1 @@
+# Criptografia-SHA-256
